@@ -1,3 +1,5 @@
+//вариант 18
+
 #include <iostream>
 #include <fstream>
 using namespace std;
